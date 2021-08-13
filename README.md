@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Blockchain & DeFi 
-- 💬 Ask me about Blockchain & DeFi 
+- 💬 Ask me about 
+  - Blockchain & DeFi
+  - Web Apps
 - 📫 How to reach me: 
   - [https://www.linkedin.com/in/shmuel-disraeli](https://www.linkedin.com/in/shmuel-disraeli)
   - [https://shmuel-disraeli.medium.com](https://shmuel-disraeli.medium.com)
