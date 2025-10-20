@@ -24,7 +24,7 @@ I design and build modern SaaS products that connect people, automate workflows,
 ---
 
 ### ⚙️ GitHub Stats
-![Shmuel’s GitHub stats](https://github-readme-stats.vercel.app/api?username=shmueldisraeli&show_icons=true&theme=tokyonight)
+![Shmuel’s GitHub stats](https://github-readme-stats.vercel.app/api?username=shmuel-web&show_icons=true&theme=tokyonight)
 
 ---
 
