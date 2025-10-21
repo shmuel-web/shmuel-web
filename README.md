@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Shmuel DIsraeli
+### Hi there 👋 I'm Shmuel 
 
 🚀 Full-Stack TypeScript Engineer | Consultant @ Tikal  | CTO @ Nimi | 
 I design and build modern SaaS products that connect people, automate workflows, and scale effortlessly.
