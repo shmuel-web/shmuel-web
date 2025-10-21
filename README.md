@@ -6,9 +6,16 @@ I design and build modern SaaS products that connect people, automate workflows,
 
 ---
 
+### 🧭 About Me
+I love exploring new technologies,
+My current focus is on system design and arcitecture that levrage LLM's, in the product itself and in the devlopment cycle.
+Outside of code, I explore, philosophy, and entrepreneurship.
+
+---
+
 ### 🧠 Currently working on
-- **Tikal** — Consulting as a Senior Full-Stack Engineer, helping companies ship fast and scale right.  
-- **Nimi** — part-time CTO & Co-founder of a SaaS platform for digital ticketing, club memberships, and event management.
+- **Tikal**  Consulting as a Senior Full-Stack Engineer, helping companies ship fast and scale right.  
+- **Nimi**  part-time CTO & Co-founder of a SaaS platform for digital ticketing, club memberships, and event management.
 
 ---
 
@@ -25,14 +32,7 @@ I design and build modern SaaS products that connect people, automate workflows,
 ---
 
 ### ⚙️ GitHub Stats
-![Shmuel’s GitHub stats](https://github-readme-stats.vercel.app/api?username=shmuel-web&show_icons=true&theme=tokyonight)
-
----
-
-### 🧭 About Me
-I love designing systems that blend aesthetics and performance.  
-My current focus is on scalable SaaS architecture, automation, and human-centered interfaces.  
-Outside of code, I explore Kabbalah, philosophy, and entrepreneurship — always searching for the balance between logic and spirit.
+![Shmuel’s GitHub stats](https://github-readme-stats.vercel.app/api?username=shmuel-web&show_icons=true
 
 ---
 
